@@ -1,6 +1,7 @@
 This project was bootstrapped with made by React & [Material UI](https://material-ui.com/). <br>
 **Don't forget to run `npm install` if you run locally** <br>
-You can see the demo here : [yehez-react-covid19.vercel.app](https://yehez-react-covid19.vercel.app/)
+You can see the demo here : [yehez-react-covid19.vercel.app](https://yehez-react-covid19.vercel.app/) <br>
+I'm using [Mathdroid](https://covid19.mathdro.id/api)'s & [Reynadi](https://apicovid19indonesia-v2.vercel.app/api)'s
 
 ## Available Scripts
 

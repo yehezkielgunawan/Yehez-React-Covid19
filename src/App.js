@@ -40,7 +40,7 @@ function App() {
                 <a href="https://covid19.mathdro.id/api">Mathdroid</a> and
                 <a href="https://apicovid19indonesia-v2.vercel.app/api">
                   {" "}
-                  Reynaldi
+                  Reynadi
                 </a>{" "}
                 Covid-19 API
               </strong>
