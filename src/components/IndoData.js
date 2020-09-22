@@ -89,7 +89,7 @@ export default function IndoData() {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Line type="monotone" dataKey="positif" stroke="#ffc107" />
+            <Line type="monotone" dataKey="positif" stroke="#f9a825" />
             <Line type="monotone" dataKey="sembuh" stroke="#64dd17" />
             <Line type="monotone" dataKey="meninggal" stroke="#f44336" />
           </LineChart>

@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with made by React & [Material UI](https://material-ui.com/). <br>
+**Don't forget to run `npm install` if you run locally** <br>
+You can see the demo here : [yehez-react-covid19.vercel.app](https://yehez-react-covid19.vercel.app/)
 
 ## Available Scripts
 
